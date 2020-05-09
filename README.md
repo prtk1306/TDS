@@ -1,1 +1,1 @@
-# MNIST dataset using Deep Learning algorithm (ANN)
+# Towards Data Science files.
